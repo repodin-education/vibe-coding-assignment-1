@@ -1,4 +1,4 @@
-# vibe-coding-assignment-1-template# Assignment 1: Cursor Fundamentals Reflection
+# Assignment 1: Cursor Fundamentals Reflection
 
 > **"RepodIn Education is a teacher-first management and analytics layer on top of GitHub Classroom."**
 
