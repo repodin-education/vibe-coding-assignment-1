@@ -106,7 +106,7 @@ Your submission will be evaluated based on:
 
 ## Grading Rubric
 
-See [Grading Rubrics](https://repodin-education.github.io/vibe-coding-materials/grading-rubrics.html) for detailed criteria.
+See [Grading Rubrics](../materials/grading-rubrics.md) for detailed criteria.
 
 **Total Points:** 50 points
 
@@ -131,8 +131,8 @@ See [Grading Rubrics](https://repodin-education.github.io/vibe-coding-materials/
 
 - Ask questions in the help channel
 - Review the [Building with Cursor guide](https://cursorai.notion.site/Building-with-Cursor-public-273da74ef0458051bf22e86a1a0a5c7d)
-- Review [Student Guide](https://repodin-education.github.io/vibe-coding-materials/student-guide.html)
-- Check [FAQ](https://repodin-education.github.io/vibe-coding-materials/faq.html)
+- Review [Student Guide](../materials/student-guide.md)
+- Check [FAQ](../materials/faq.md)
 - Contact your teacher if needed
 
 ---
