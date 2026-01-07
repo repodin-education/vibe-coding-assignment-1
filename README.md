@@ -7,6 +7,7 @@ By completing this assignment, you will:
 - Learn effective prompting techniques
 - Recognize the value of multi-file reasoning
 - Develop a debugging workflow with AI assistance
+- Master iterative improvement with AI tools
 - Reflect on the benefits of AI-assisted coding
 
 ---
@@ -32,7 +33,7 @@ Read the complete "Building with Cursor" guide. Focus on:
 ### Step 2: Create Answers File
 
 1. In your assignment repository, create a file named `answers.md`
-2. Answer all 4 questions below
+2. Answer all 5 questions below
 3. Be specific and provide examples where requested
 
 ### Step 3: Answer the Questions
@@ -57,7 +58,13 @@ Provide 1-2 examples of well-phrased prompts you would use with Cursor AI. Expla
 
 Describe your step-by-step process for debugging errors when using Cursor AI. Include how you would use Cursor to help identify and fix issues.
 
-#### Question 4: Personal Benefits
+#### Question 4: Iteration and Improvement
+
+**How do you use iteration in Cursor to improve your code? Provide an example.**
+
+Explain what iteration means in the context of AI-assisted coding with Cursor. Describe a scenario where you would use iterative prompting to improve code quality, and provide an example of how you would refine your prompts.
+
+#### Question 5: Personal Benefits
 
 **What is the biggest benefit of AI-assisted coding for you personally?**
 
@@ -79,7 +86,7 @@ Reflect on how AI-assisted coding (using tools like Cursor) benefits your learni
 
 Your submission will be evaluated based on:
 
-- [ ] All 4 questions are answered
+- [ ] All 5 questions are answered
 - [ ] Answers demonstrate understanding of concepts
 - [ ] Examples are provided where requested
 - [ ] Answers are clear and well-written
@@ -92,7 +99,7 @@ Your submission will be evaluated based on:
 
 1. **File:** `answers.md` in your repository root
 2. **Format:** Markdown file with clear headings for each question
-3. **Content:** Complete answers to all 4 questions
+3. **Content:** Complete answers to all 5 questions
 4. **Commit:** All changes committed and pushed to GitHub
 
 ---
@@ -103,10 +110,11 @@ See [Grading Rubrics](https://repodin-education.github.io/vibe-coding-materials/
 
 **Total Points:** 50 points
 
-- Question 1 (Multi-file reasoning): 12.5 points
-- Question 2 (Good prompts): 12.5 points
-- Question 3 (Debugging workflow): 12.5 points
-- Question 4 (Personal benefits): 12.5 points
+- Question 1 (Multi-file reasoning): 10 points
+- Question 2 (Good prompts): 10 points
+- Question 3 (Debugging workflow): 10 points
+- Question 4 (Iteration and improvement): 10 points
+- Question 5 (Personal benefits): 10 points
 
 ---
 
@@ -134,6 +142,7 @@ See [Grading Rubrics](https://repodin-education.github.io/vibe-coding-materials/
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0 | 2025-12-20 | RepodIn Education Team | Initial version |
+| 1.1 | 2026-01-07 | RepodIn Education Team | Added Question 4 on iteration and improvement |
 
 ---
 
